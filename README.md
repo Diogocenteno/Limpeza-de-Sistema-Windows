@@ -1,6 +1,8 @@
 🧹 Limpeza de Sistema Windows
 Aplicativo em Python com interface gráfica (Tkinter + ttk themes) para realizar limpeza de arquivos desnecessários no Windows, liberar espaço em disco e melhorar o desempenho.
 
+![Captura de tela 2025-05-27 103728](https://github.com/user-attachments/assets/b4d351de-9cdf-4fb5-a24f-ba1da97bb1b5)
+
 🔧 Funcionalidades
 Limpeza de:
 
